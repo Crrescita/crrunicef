@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_src_assets_bg_image.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/src_assets_bg_image.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-mdpi_ff_logo.jpeg.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-mdpi/ff_logo.jpeg"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xhdpi_logo_dark.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xhdpi/logo_dark.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-mdpi_logo.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-mdpi/logo.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xhdpi_logo.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxhdpi_logo.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxxhdpi_logo_dark.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxxhdpi/logo_dark.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_src_assets_result.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/src_assets_result.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_src_assets_jacket.jpg.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/src_assets_jacket.jpg"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-hdpi_ff_logo.jpeg.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-hdpi/ff_logo.jpeg"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-hdpi_logo_dark.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-hdpi/logo_dark.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-mdpi_src_assets_logo.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-mdpi/src_assets_logo.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxhdpi_ff_logo.jpeg.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxhdpi/ff_logo.jpeg"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxhdpi_logo_dark.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxhdpi/logo_dark.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-hdpi_logo.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxxhdpi_ff_logo.jpeg.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxxhdpi/ff_logo.jpeg"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-mdpi_logo_dark.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-mdpi/logo_dark.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xhdpi_ff_logo.jpeg.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xhdpi/ff_logo.jpeg"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myfirstdemoproject.app-merged_res-47:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.myfirstdemoproject.app-main-49:/drawable/rn_edit_text_material.xml"
+    }
+]

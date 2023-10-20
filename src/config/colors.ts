@@ -1,0 +1,31 @@
+export const Colors = {
+  DARK_NAVY_BLUE_PRIMARY: "#0A051E",    //dark navy blue
+  secondary: "#FFFDF5",     //secondary and light theme colour is same now
+  lightThemeColor: '#FFFDF5',
+  BACKGROUND_COLOR: '#FFFDF5',
+  BOTTOM_TEXT_COLOR: '#DAC55D',
+  BOX_BORDER_COLOR: '#E2DBC7',
+  TEXT_COLOR_LIGHT: "#888888",
+  TEXT_COLOR_DASHBOARD: "#606060",
+  WHITE: "#FFFFFF",
+  BLACK: "#000000",
+  BUTTON: '#0A051E',
+  WARNING_HEADING: '#A80D1B',
+  WARNING_RED: '#FF6863',
+  LIGHT_GRAY: '#D3D3D3',
+  GRAY_97: '#F7F7F7',
+  FERN_GREEN: '#5DBB63',
+  HYPERLINK_BLUE: '#3366CC',
+  HEX_COLOR_711: '#BB0711',
+  HEX_COLOR_E3E4: '#F5E3E4',
+  HEX_COLOR_058D84: '#058D84',
+  HEX_COLOR_D1CECE: "#D1CECE",
+  PURPLE: '#270EE2',
+  GREY_1: '#858383',
+  /** RGBA COLOR CODES */
+  DISABLED: "rgb(165, 180, 252)",
+  GRAY: "rgb(55,65,81)",
+  LIGHT_BLUE: "rgb(165, 180, 252)",
+  DARK_BLUE: "rgb(79, 70, 229)",
+  BLUR_COLOR: "rgba(0, 0, 0, 0.2)",
+};
